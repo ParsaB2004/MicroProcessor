@@ -20,6 +20,13 @@ LED (1 عدد)
 اتصال پایه‌ی کوتاه‌تر LED به زمین: پایه‌ی کوتاه‌تر LED (کاتد) را به زمین (GND) روی برد آردوینو وصل کنید.
 
 
+![](https://github.com/ParsaB2004/microProcessor/blob/main/SESSION1/LEDproject.jpg.jpg)
+
+
+
+
+
+
 توضیح کد
 
 مقدمه:
